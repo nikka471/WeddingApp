@@ -1,5 +1,10 @@
 💍 Wedding Planner App is a sleek and powerful Android application crafted to make wedding planning simple, organized, and stress-free. Developed using Kotlin and adhering to modern Android best practices, this app empowers users to effortlessly manage every essential aspect of their big day preparation — all from one place. 🎉
 
+
+📸 Screenshot - Auth Screen
+
+![Auth Screen](https://github.com/nikka471/WeddingApp/blob/a5304440e0d28d38015a96171b32fdc9944b59ad/auth.jpeg?raw=true)
+
 ✨ Core features include:
 
 ✅ Wedding Checklist: Stay on top of every task with a clear, easy-to-use checklist that lets you mark progress and never miss a detail.
@@ -19,3 +24,4 @@
 🚪 User-Friendly Toolbar: Convenient logout option for simple account management and enhanced security.
 
 This project is perfect for anyone eager to learn about building multi-activity Android apps, working with RecyclerView, CardViews, adapters, Firebase Authentication, and designing a visually stunning, responsive interface. 📱✨
+
