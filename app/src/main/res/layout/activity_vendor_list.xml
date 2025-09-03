@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Filter UI -->
+    <EditText
+        android:id="@+id/etMaxBudget"
+        android:layout_width="325dp"
+        android:layout_height="57dp"
+        android:hint="Enter Max Budget (₹)"
+        android:inputType="number"
+        android:background="@drawable/edittextshape"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/etMinCapacity"
+        android:layout_width="325dp"
+        android:layout_height="57dp"
+        android:hint="Enter Minimum Capacity"
+        android:background="@drawable/edittextshape"
+        android:inputType="number"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnApplyFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apply Filters"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewVendors"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
+

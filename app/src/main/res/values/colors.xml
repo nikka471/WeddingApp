@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="blue">#3E57E0</color>
+    <color name="titlecolor">#E44A61</color>
+
+
+        <!-- Primary brand colors -->
+        <color name="colorPrimary">#D2691E</color>           <!-- Chocolate Brown -->
+        <color name="colorPrimaryVariant">#A0522D</color>    <!-- Darker Brown -->
+        <color name="colorOnPrimary">#FFFFFF</color>         <!-- White text on primary -->
+
+        <!-- Secondary colors -->
+        <color name="colorSecondary">#F4A460</color>         <!-- Sandy Brown -->
+        <color name="colorSecondaryVariant">#E9967A</color>  <!-- Light Salmon -->
+
+        <!-- Background and surfaces -->
+        <color name="colorBackground">#FFF8F0</color>        <!-- Creamy off-white -->
+        <color name="colorSurface">#FFFFFF</color>           <!-- Pure white -->
+
+        <!-- Text colors -->
+        <color name="colorOnBackground">#3E2723</color>      <!-- Dark Brown for text -->
+        <color name="colorOnSurface">#3E2723</color>         <!-- Same for surface text -->
+
+        <!-- Error (optional) -->
+        <color name="colorError">#B00020</color>
+        <color name="colorOnError">#FFFFFF</color>
+
+
+
+</resources>
