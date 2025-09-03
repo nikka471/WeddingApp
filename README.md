@@ -5,6 +5,13 @@
 
 ![Auth Screen](https://github.com/nikka471/WeddingApp/blob/a5304440e0d28d38015a96171b32fdc9944b59ad/auth.jpeg?raw=true)
 
+
+Home Screen
+![Home Screen](https://github.com/nikka471/WeddingApp/blob/d513a947e8b442bc478c03ac0aecaad1ec4a53cd/home.jpeg?raw=true)
+
+
+
+
 ✨ Core features include:
 
 ✅ Wedding Checklist: Stay on top of every task with a clear, easy-to-use checklist that lets you mark progress and never miss a detail.
@@ -14,6 +21,8 @@
 💰 Budget Tracker: Keep your wedding finances under control by monitoring expenses and ensuring you stay within your desired budget.
 
 🏰 Vendor (Venue) List: Explore a curated set of dummy wedding venues showcasing key info like name, location, price range, and guest capacity — designed to inspire and assist your choices.
+
+![Venue Screen](https://github.com/nikka471/WeddingApp/blob/d513a947e8b442bc478c03ac0aecaad1ec4a53cd/venue.jpeg?raw=true)
 
 🔍 Smart Filtering: Quickly narrow down venues based on your budget limits and guest count to find the perfect fit for your celebration.
 
